@@ -6,5 +6,5 @@ install_PYTHON = \
 	aitreader.py \
 	plugin.py libshm.py
 
-install_SCRIPTS = dumpait 
+
 install_DATA = keymap.xml
